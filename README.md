@@ -20,16 +20,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,cs,dotnet,c,postman,vercel,vscode,visualstudio,sublime&perline=8" />
 </p>
-<!-- Frontend Skills -->
-<!-- Backend Skills -->
-![HTML5](https://img.shields.io/badge/HTML5-90%25-3c873a?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-70%25-gray?style=for-the-badge)
-![Bootstra5](https://img.shields.io/badge/Bootstra5-70%25-11998e?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-00758f?style=for-the-badge)
-![React.js](https://img.shields.io/badge/React.js-50%25-6a11cb?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-50%25-512bd4?style=for-the-badge)
-![MaterialUI](https://img.shields.io/badge/MateriaUI-30%25-1a2980?style=for-the-badge)
 
+
+<!-- Skill Bars -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&text=&animation=fade&width=120" /> <!-- HTML5 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&text=&animation=fade&width=110" /> <!-- CSS3 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&text=&animation=fade&width=100" /> <!-- JS -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&text=&animation=fade&width=120" /> <!-- React -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&text=&animation=fade&width=110" /> <!-- Node.js -->
 <!-- Backend Skills -->
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge)
