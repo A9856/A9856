@@ -23,7 +23,7 @@ Open to collaboration on real-world and open-source projects.</p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,regex,nextjs,nodejs,python,express,mongodb,mysql,cs,dotnet,c,postman,npm,yarn,vite,vercel,git,github,vscode,visualstudio,sublime&perline=8" />
 </p>
----
+<hr>
 <!-- Frontend Skills -->
 <h5>Front-End Skills</h5>
 
