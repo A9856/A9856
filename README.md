@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adil Khan</h1>
-<h3 align="center">Software Engineer | Mern Full Stack Developer</h3>
+<h3 align="center"> Junior Software Engineer | Mern Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A9856&label=Profile%20views&color=0e75b6&style=flat" alt="A9856" />
@@ -14,7 +14,9 @@ Open to collaboration on real-world and open-source projects.</p>
 
 📫 **Email:** adilkhanofficial74@gmail.com  
 
-🔗 **GitHub:** https://github.com/A9856  
+🔗 **GitHub:** https://github.com/A9856
+
+🔗 **Linkedin:** https://www.linkedin.com/in/adil-khan-01b96627b
 
 ## 🚀 Languages & Tools
 
