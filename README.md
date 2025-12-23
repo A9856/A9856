@@ -20,14 +20,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,cs,dotnet,c,postman,vercel,vscode,visualstudio,sublime&perline=8" />
 </p>
+<!-- Frontend Skills -->
+![HTML5](https://img.shields.io/badge/HTML5-90%25-FF5722?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-85%25-2196F3?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-70%25-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-60%25-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap5-80%25-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-60%25-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/MaterialUI-50%25-007FFF?style=flat&logo=material-ui&logoColor=white)
 
 
-<!-- Skill Bars -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&text=&animation=fade&width=120" /> <!-- HTML5 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&text=&animation=fade&width=110" /> <!-- CSS3 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&text=&animation=fade&width=100" /> <!-- JS -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&text=&animation=fade&width=120" /> <!-- React -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&text=&animation=fade&width=110" /> <!-- Node.js -->
 <!-- Backend Skills -->
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge)
