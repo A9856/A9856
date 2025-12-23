@@ -22,11 +22,11 @@
 </p>
 <!-- Frontend Skills -->
 
+### 🧩 Frontend Libraries & Frameworks
+
 ![HTML](https://readmebadge.vercel.app/badges/html.svg)
 ![CSS](https://readmebadge.vercel.app/badges/css.svg)
 ![JavaScript](https://readmebadge.vercel.app/badges/javascript.svg)
-
-### 🧩 Frontend Libraries & Frameworks
 
 ![React](https://readmebadge.vercel.app/badges/react.svg)
 ![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)
@@ -34,7 +34,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://readmebadge.vercel.app/badges/materialui.svg)
 
-<!-- Backend Skills -->
+
+<!-- Backend Skills (aapka existing) -->
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-70%25-11998e?style=for-the-badge)
@@ -48,7 +49,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-80%25-68217a?style=for-the-badge)
 ![Sublime](https://img.shields.io/badge/Sublime-70%25-ff3a00?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-80%25-f64c1e?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-70%25-black?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-70%25-000000?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-70%25-ff6f61?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-70%25-f05032?style=for-the-badge)
 
