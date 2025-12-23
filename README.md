@@ -21,15 +21,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,cs,dotnet,c,postman,vercel,vscode,visualstudio,sublime&perline=8" />
 </p>
 <!-- Frontend Skills -->
-![HTML5](https://img.shields.io/badge/HTML5-90%25-FF5722?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-85%25-2196F3?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-70%25-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-60%25-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap5-80%25-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-60%25-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/MaterialUI-50%25-007FFF?style=flat&logo=material-ui&logoColor=white)
 
+![HTML](https://readmebadge.vercel.app/badges/html.svg)
+![CSS](https://readmebadge.vercel.app/badges/css.svg)
+![JavaScript](https://readmebadge.vercel.app/badges/javascript.svg)
+
+### 🧩 Frontend Libraries & Frameworks
+
+![React](https://readmebadge.vercel.app/badges/react.svg)
+![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)
+![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://readmebadge.vercel.app/badges/materialui.svg)
 
 <!-- Backend Skills -->
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
