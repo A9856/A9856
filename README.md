@@ -11,7 +11,9 @@ Skilled in **MERN Stack**, **React**, **Next.js**, and **.NET (C#)**.
 Experienced in REST APIs, MongoDB, MySQL, and modern UI frameworks.  
 Always learning new technologies and improving backend & frontend skills.  
 Open to collaboration on real-world and open-source projects.</p>
+
 📫 **Email:** adilkhanofficial74@gmail.com  
+
 🔗 **GitHub:** https://github.com/A9856  
 
 ## 🚀 Languages & Tools
