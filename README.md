@@ -94,6 +94,21 @@ Open to collaboration on real-world and open-source projects.</p>
 | 🏫 **Genius School Management System** | A full-stack MERN application with secure JWT authentication (Login & Sign-Up). Uses MongoDB Atlas for database, role-based access, and a modern UI for efficient school management. | [Live Demo](https://genious-ivxi.onrender.com) | [GitHub](https://github.com/A9856/genious) |
 | 🧑‍💼 **HR Dashboard System** | A complete MERN stack HR dashboard with JWT-based authentication, secure login/sign-up, employee & department management, and an admin-friendly real-world HR UI. | [Live Demo](https://hrdashfront.vercel.app) | [Frontend](https://github.com/A9856/hrdashfront)<br/>[Backend](https://github.com/A9856/hrdashback) |
 
+## 🧑‍💼 HR Dashboard – UI Preview
+
+### 💻 Desktop View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/hrdashfront/main/assets/hrdashboard-ui.jpg" width="100%" />
+</p>
+
+### 📱 Mobile View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/hrdashfront/main/assets/hrdashboard-mobile.jpg" width="300" />
+</p>
+
+🔗 **Live Demo:** https://hrdashfront.vercel.app  
+💻 **GitHub:** https://github.com/A9856/hrdashfront
+
 
 <p align="center">
   <a href="https://github.com/A9856">
