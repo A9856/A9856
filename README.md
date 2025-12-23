@@ -60,6 +60,7 @@ Open to collaboration on real-world and open-source projects.</p>
 ![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)  
 `███████░░░` 70%
 <!-- Backend Skills (aapka existing) -->
+<h5>Back-End Skills</h5>
 
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge)
