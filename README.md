@@ -64,6 +64,7 @@
 </p>
 
 ---
+![Snake animation](https://github.com/A9856/A9856/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 GitHub Stats
 
