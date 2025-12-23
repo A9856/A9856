@@ -27,43 +27,74 @@
 </p>
 
 ---
-## 📊 Skill Level
 
-### HTML5
-![HTML5](https://progress-bar.dev/80/?title=HTML5&width=500&color=E34F26)
-
-### CSS3
-![CSS3](https://progress-bar.dev/70/?title=CSS3&width=500&color=1572B6)
-
-### JavaScript
-![JavaScript](https://progress-bar.dev/60/?title=JavaScript&width=500&color=F7DF1E)
-
-### React
-![React](https://progress-bar.dev/70/?title=React&width=500&color=61DAFB)
-
-### MongoDB
-![MongoDB](https://progress-bar.dev/70/?title=MongoDB&width=500&color=47A248)
-
-### Node.js
-![Node.js](https://progress-bar.dev/70/?title=Node.js&width=500&color=339933)
-
-### TypeScript
-![TypeScript](https://progress-bar.dev/30/?title=TypeScript&width=500&color=3178C6)
-## 🤝 Connect With Me
-
+## ⚡ Tech Skills
 <p align="center">
-  <a href="https://github.com/A9856">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/adil-khan-01b96627b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/__adi_____0007">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" />
 </p>
+### 🎨 Frontend
+
+<b>HTML5</b> &nbsp; 90%
+<div style="background:#0f172a;border-radius:12px;overflow:hidden;">
+  <div style="width:90%;background:linear-gradient(90deg,#00f5a0,#00d9f5);padding:8px;"></div>
+</div>
+
+<br/>
+
+<b>CSS3</b> &nbsp; 85%
+<div style="background:#0f172a;border-radius:12px;overflow:hidden;">
+  <div style="width:85%;background:linear-gradient(90deg,#a855f7,#ec4899);padding:8px;"></div>
+</div>
+
+<br/>
+
+<b>JavaScript</b> &nbsp; 70%
+<div style="background:#0f172a;border-radius:12px;overflow:hidden;">
+  <div style="width:70%;background:linear-gradient(90deg,#facc15,#fb923c);padding:8px;"></div>
+</div>
+
+<br/>
+
+<b>React.js</b> &nbsp; 50%
+<div style="background:#0f172a;border-radius:12px;overflow:hidden;">
+  <div style="width:50%;background:linear-gradient(90deg,#38bdf8,#2563eb);padding:8px;"></div>
+</div>
 
 ---
+
+### 🧠 Backend
+
+<b>MongoDB</b> &nbsp; 60%
+<div style="background:#0f172a;border-radius:12px;overflow:hidden;">
+  <div style="width:60%;background:linear-gradient(90deg,#22c55e,#16a34a);padding:8px;"></div>
+</div>
+
+<br/>
+
+<b>Express.js</b> &nbsp; 50%
+<div style="background:#0f172a;border-radius:12px;overflow:hidden;">
+  <div style="width:50%;background:linear-gradient(90deg,#cbd5e1,#64748b);padding:8px;"></div>
+</div>
+
+<br/>
+
+<b>Node.js</b> &nbsp; 50%
+<div style="background:#0f172a;border-radius:12px;overflow:hidden;">
+  <div style="width:50%;background:linear-gradient(90deg,#4ade80,#22c55e);padding:8px;"></div>
+</div>
+
+---
+
+### 🛠 Other
+
+<b>Git</b> &nbsp; 70%
+<div style="background:#0f172a;border-radius:12px;overflow:hidden;">
+  <div style="width:70%;background:linear-gradient(90deg,#f97316,#fb7185);padding:8px;"></div>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" />
+</p>
 ![Snake animation](https://github.com/A9856/A9856/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 GitHub Stats
