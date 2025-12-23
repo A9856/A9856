@@ -18,7 +18,7 @@ Open to collaboration on real-world and open-source projects.</p>
 
 ## 🚀 Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,cs,dotnet,c,postman,vercel,vscode,visualstudio,sublime&perline=8" />
 </p>
 <!-- Frontend Skills -->
