@@ -77,6 +77,18 @@
 
 ![Snake animation](https://github.com/A9856/A9856/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <a href="https://github.com/A9856">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/adil-khan-01b96627b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://instagram.com/__adi_____0007">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+</p>
+
 ## 📈 GitHub Stats
 
 <p align="center">
