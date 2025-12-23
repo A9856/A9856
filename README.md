@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A9856&label=Profile%20views&color=0e75b6&style=flat" alt="A9856" />
 </p>
----
 <h4>About Me</h4>
 <p align="justif">I'm a passionate **<b>Software Engineer</b>** who loves building real-world, scalable web applications.  
 Skilled in **MERN Stack**, **React**, **Next.js**, and **.NET (C#)**.  
@@ -21,10 +20,10 @@ Open to collaboration on real-world and open-source projects.</p>
 
 ## 🚀 Languages & Tools
 ---
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,regex,nextjs,nodejs,python,express,mongodb,mysql,cs,dotnet,c,postman,npm,yarn,vite,vercel,git,github,vscode,visualstudio,sublime&perline=8" />
 </p>
+---
 <!-- Frontend Skills -->
 <h5>Front-End Skills</h5>
 
