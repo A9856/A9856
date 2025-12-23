@@ -22,8 +22,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,cs,dotnet,c,postman,vercel,vscode,visualstudio,sublime&perline=8" />
 </p>
 <!-- Frontend Skills -->
-
-### 🧩 Frontend Libraries & Frameworks
+### 🚀 Frontend Skills
 
 **HTML5** ![HTML](https://readmebadge.vercel.app/badges/html.svg) `█████████░` 90%  
 **CSS3** ![CSS](https://readmebadge.vercel.app/badges/css.svg) `███████░░░` 70%  
