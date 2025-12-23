@@ -19,6 +19,7 @@ Open to collaboration on real-world and open-source projects.</p>
 🔗 **Linkedin:** https://www.linkedin.com/in/adil-khan-01b96627b
 
 ## 🚀 Languages & Tools
+---
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,regex,nextjs,nodejs,python,express,mongodb,mysql,cs,dotnet,c,postman,npm,yarn,vite,vercel,git,github,vscode,visualstudio,sublime&perline=8" />
@@ -78,6 +79,8 @@ Open to collaboration on real-world and open-source projects.</p>
 ![Vercel](https://img.shields.io/badge/Vercel-70%25-000000?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-70%25-ff6f61?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-70%25-f05032?style=for-the-badge)
+
+---
 
 ![Snake animation](https://github.com/A9856/A9856/blob/output/github-contribution-grid-snake.svg)
 
