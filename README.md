@@ -27,76 +27,28 @@
 </p>
 
 ---
+## 📊 Skill Level
 
-## 📊 Skill Level (Bootstrap Style)
+### HTML5
+![HTML5](https://progress-bar.dev/80/?title=HTML5&width=500&color=E34F26)
 
-<b>HTML5</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:80%;background:#0d6efd;color:white;padding:6px 12px;border-radius:20px;">80%</div>
-</div>
+### CSS3
+![CSS3](https://progress-bar.dev/70/?title=CSS3&width=500&color=1572B6)
 
-<b>CSS3</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:70%;background:#6610f2;color:white;padding:6px 12px;border-radius:20px;">70%</div>
-</div>
+### JavaScript
+![JavaScript](https://progress-bar.dev/60/?title=JavaScript&width=500&color=F7DF1E)
 
-<b>JavaScript</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:60%;background:#ffc107;color:black;padding:6px 12px;border-radius:20px;">60%</div>
-</div>
+### React
+![React](https://progress-bar.dev/70/?title=React&width=500&color=61DAFB)
 
-<b>React</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:70%;background:#0dcaf0;color:black;padding:6px 12px;border-radius:20px;">70%</div>
-</div>
+### MongoDB
+![MongoDB](https://progress-bar.dev/70/?title=MongoDB&width=500&color=47A248)
 
-<b>Next.js</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:60%;background:#212529;color:white;padding:6px 12px;border-radius:20px;">60%</div>
-</div>
+### Node.js
+![Node.js](https://progress-bar.dev/70/?title=Node.js&width=500&color=339933)
 
-<b>Node.js</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:70%;background:#198754;color:white;padding:6px 12px;border-radius:20px;">70%</div>
-</div>
-
-<b>Express.js</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:70%;background:#6c757d;color:white;padding:6px 12px;border-radius:20px;">70%</div>
-</div>
-
-<b>MongoDB</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:70%;background:#198754;color:white;padding:6px 12px;border-radius:20px;">70%</div>
-</div>
-
-<b>Bootstrap 5</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:80%;background:#7952b3;color:white;padding:6px 12px;border-radius:20px;">80%</div>
-</div>
-
-<b>Postman</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:80%;background:#fd7e14;color:white;padding:6px 12px;border-radius:20px;">80%</div>
-</div>
-
-<b>C# (.NET)</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:50%;background:#6f42c1;color:white;padding:6px 12px;border-radius:20px;">50%</div>
-</div>
-
-<b>TypeScript</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:30%;background:#0d6efd;color:white;padding:6px 12px;border-radius:20px;">30%</div>
-</div>
-
-<b>VS Code</b>
-<div style="background:#e9ecef;border-radius:20px;margin-bottom:10px;">
-  <div style="width:90%;background:#0d6efd;color:white;padding:6px 12px;border-radius:20px;">90%</div>
-</div>
-
----
-
+### TypeScript
+![TypeScript](https://progress-bar.dev/30/?title=TypeScript&width=500&color=3178C6)
 ## 🤝 Connect With Me
 
 <p align="center">
