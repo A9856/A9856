@@ -92,7 +92,7 @@ Open to collaboration on real-world and open-source projects.</p>
 |-------------|-------------|-----------|-------------|
 | 🛒 **ShopVerse (E-Commerce Website)** | A modern e-commerce web application with product listing, cart functionality, and responsive UI. Built to provide a smooth online shopping experience with clean design and fast performance. | [Live Demo](https://a9856.github.io/shopverse/) | [GitHub](https://github.com/A9856/shopverse) |
 | 🏫 **Genius School Management System** | A full-stack MERN application with secure JWT authentication (Login & Sign-Up). Uses MongoDB Atlas for database, role-based access, and a modern UI for efficient school management. | [Live Demo](https://genious-ivxi.onrender.com) | [GitHub](https://github.com/A9856/genious) |
-| 🧑‍💼 **HR Dashboard System** | A complete MEAN stack HR dashboard with JWT-based authentication, secure login/sign-up, employee & department management, and an admin-friendly real-world HR UI. | [Live Demo](https://hrdashfront.vercel.app) | [Frontend](https://github.com/A9856/hrdashfront)<br/>[Backend](https://github.com/A9856/hrdashback) |
+| 🧑‍💼 **HR Dashboard System** | A complete MERN stack HR dashboard with JWT-based authentication, secure login/sign-up, employee & department management, and an admin-friendly real-world HR UI. | [Live Demo](https://hrdashfront.vercel.app) | [Frontend](https://github.com/A9856/hrdashfront)<br/>[Backend](https://github.com/A9856/hrdashback) |
 
 
 <p align="center">
