@@ -107,6 +107,16 @@ Open to collaboration on real-world and open-source projects.</p>
 </p>
 ### 💻 Desktop View
 <p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/hrdashfront/main/assets/department-ui.jpg" width="100%" />
+</p>
+
+### 📱 Mobile View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/hrdashfront/main/assets/department-mobile.jpg" width="300" />
+</p>
+
+### 💻 Desktop View
+<p align="center">
   <img src="https://raw.githubusercontent.com/A9856/shopverse/main/assets/shopverse-ui.jpg" width="100%" />
 </p>
 
