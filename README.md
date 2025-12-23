@@ -105,6 +105,17 @@ Open to collaboration on real-world and open-source projects.</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/A9856/hrdashfront/main/assets/hrdashboard-mobile.jpg" width="300" />
 </p>
+### 💻 Desktop View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/shopverse/main/assets/shopverse-ui.jpg" width="100%" />
+</p>
+
+### 📱 Mobile View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/shopverse/main/assets/shopverse-mobile.jpg" width="300" />
+</p>
+
+
 
 🔗 **Live Demo:** https://hrdashfront.vercel.app  
 💻 **GitHub:** https://github.com/A9856/hrdashfront
