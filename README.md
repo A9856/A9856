@@ -31,7 +31,7 @@
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-50%25-007FFF?style=flat&logo=material-ui&logoColor=white)
 
 <!-- Backend Skills -->
-![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-70%25-3c873a?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-70%25-11998e?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-60%25-00758f?style=for-the-badge)
