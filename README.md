@@ -58,7 +58,7 @@ Experienced in REST APIs, MongoDB, MySQL, and modern UI frameworks.
 ![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)  
 `███████░░░` 70%
 <!-- Backend Skills (aapka existing) -->
-<h5>Back-End Skills</h5>
+
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-70%25-11998e?style=for-the-badge)
@@ -68,7 +68,6 @@ Experienced in REST APIs, MongoDB, MySQL, and modern UI frameworks.
 ![TypeScript](https://img.shields.io/badge/TypeScript-30%25-1a2980?style=for-the-badge)
 
 <!-- Tools -->
-<h5>Tools</h5>
 ![VS Code](https://img.shields.io/badge/VS%20Code-90%25-007acc?style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-80%25-68217a?style=for-the-badge)
 ![Sublime](https://img.shields.io/badge/Sublime-70%25-ff3a00?style=for-the-badge)
