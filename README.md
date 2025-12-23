@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adil Khan</h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Mern Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A9856&label=Profile%20views&color=0e75b6&style=flat" alt="A9856" />
 </p>
-
----
-
 ## 👨‍💻 About Me
 
 🌱 I'm a passionate **Software Engineer** who loves building real-world, scalable web applications.  
@@ -17,8 +14,6 @@
 
 📫 **Email:** adilkhanofficial74@gmail.com  
 🔗 **GitHub:** https://github.com/A9856  
-
----
 
 ## 🚀 Languages & Tools
 
@@ -65,14 +60,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A9856&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A9856&theme=tokyonight" />
-</p>
-
----
-
-✨ *"Code. Learn. Build. Repeat."* ✨
