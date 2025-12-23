@@ -25,39 +25,16 @@
 
 ### 🧩 Frontend Libraries & Frameworks
 
-### 🚀 Frontend Skills
+**HTML5** ![HTML](https://readmebadge.vercel.app/badges/html.svg) `█████████░` 90%  
+**CSS3** ![CSS](https://readmebadge.vercel.app/badges/css.svg) `███████░░░` 70%  
+**Bootstrap 5** ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) `███████░░░` 70%  
+**Material UI** ![Material UI](https://readmebadge.vercel.app/badges/materialui.svg) `█████░░░░░` 50%  
 
-**HTML5**  
-![HTML](https://readmebadge.vercel.app/badges/html.svg)  
-`█████████░` 90%
+**JavaScript** ![JavaScript](https://readmebadge.vercel.app/badges/javascript.svg) `██████░░░░` 60%  
+**React.js** ![React](https://readmebadge.vercel.app/badges/react.svg) `███████░░░` 70%  
+**Tailwind CSS** ![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg) `█████░░░░░` 50%  
+**Next.js** ![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg) `███████░░░` 70%
 
-**CSS3**  
-![CSS](https://readmebadge.vercel.app/badges/css.svg)  
-`███████░░░` 70%
-
-**Bootstrap 5**  
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-`███████░░░` 70%
-
-**Material UI**  
-![Material UI](https://readmebadge.vercel.app/badges/materialui.svg)  
-`█████░░░░░` 50%
-
-**JavaScript**  
-![JavaScript](https://readmebadge.vercel.app/badges/javascript.svg)  
-`██████░░░░` 60%
-
-**React.js**  
-![React](https://readmebadge.vercel.app/badges/react.svg)  
-`███████░░░` 70%
-
-**Tailwind CSS**  
-![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)  
-`█████░░░░░` 50%
-
-**Next.js**  
-![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)  
-`███████░░░` 70%
 <!-- Backend Skills (aapka existing) -->
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge)
