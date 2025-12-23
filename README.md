@@ -1,48 +1,4 @@
-<html>
-  <head>    
-<style>
-.skill-wrapper {
-  max-width: 420px;
-}
 
-.skill {
-  margin-bottom: 10px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 14px;
-}
-
-.skill-label {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 3px;
-}
-
-.skill-bar {
-  width: 100%;
-  height: 8px;
-  background: #e5e7eb;
-  border-radius: 999px;
-  overflow: hidden;
-}
-
-.skill-fill {
-  height: 100%;
-  border-radius: 999px;
-}
-
-/* Colors */
-.html   { background: #e34f26; }
-.css    { background: #1572b6; }
-.bootstrap { background: #7952b3; }
-.mui    { background: #0081cb; }
-.js     { background: #f7df1e; }
-.react  { background: #61dafb; }
-.tailwind { background: #38b2ac; }
-.nextjs { background: #000000; }
-</style>
-   
-  </head>
-  <body>
 <h1 align="center">Hi 👋, I'm Adil Khan</h1>
 <h3 align="center">Software Engineer | Mern Full Stack Developer</h3>
 
@@ -68,85 +24,40 @@
 <!-- Frontend Skills -->
 
 ### 🧩 Frontend Libraries & Frameworks
-<!-- Skills Progress Bars -->
 
+### 🚀 Frontend Skills
 
-<div class="skill-wrapper">
+**HTML5**  
+![HTML](https://readmebadge.vercel.app/badges/html.svg)  
+`█████████░` 90%
 
-  <div class="skill">
-    <div class="skill-label">
-      <span>HTML5</span><span>90%</span>
-    </div>
-    <div class="skill-bar">
-      <div class="skill-fill html" style="width:90%"></div>
-    </div>
-  </div>
+**CSS3**  
+![CSS](https://readmebadge.vercel.app/badges/css.svg)  
+`███████░░░` 70%
 
-  <div class="skill">
-    <div class="skill-label">
-      <span>CSS3</span><span>70%</span>
-    </div>
-    <div class="skill-bar">
-      <div class="skill-fill css" style="width:70%"></div>
-    </div>
-  </div>
+**Bootstrap 5**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+`███████░░░` 70%
 
-  <div class="skill">
-    <div class="skill-label">
-      <span>Bootstrap 5</span><span>70%</span>
-    </div>
-    <div class="skill-bar">
-      <div class="skill-fill bootstrap" style="width:70%"></div>
-    </div>
-  </div>
+**Material UI**  
+![Material UI](https://readmebadge.vercel.app/badges/materialui.svg)  
+`█████░░░░░` 50%
 
-  <div class="skill">
-    <div class="skill-label">
-      <span>Material UI</span><span>50%</span>
-    </div>
-    <div class="skill-bar">
-      <div class="skill-fill mui" style="width:50%"></div>
-    </div>
-  </div>
+**JavaScript**  
+![JavaScript](https://readmebadge.vercel.app/badges/javascript.svg)  
+`██████░░░░` 60%
 
-  <div class="skill">
-    <div class="skill-label">
-      <span>JavaScript</span><span>60%</span>
-    </div>
-    <div class="skill-bar">
-      <div class="skill-fill js" style="width:60%"></div>
-    </div>
-  </div>
+**React.js**  
+![React](https://readmebadge.vercel.app/badges/react.svg)  
+`███████░░░` 70%
 
-  <div class="skill">
-    <div class="skill-label">
-      <span>React.js</span><span>70%</span>
-    </div>
-    <div class="skill-bar">
-      <div class="skill-fill react" style="width:70%"></div>
-    </div>
-  </div>
+**Tailwind CSS**  
+![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)  
+`█████░░░░░` 50%
 
-  <div class="skill">
-    <div class="skill-label">
-      <span>Tailwind CSS</span><span>50%</span>
-    </div>
-    <div class="skill-bar">
-      <div class="skill-fill tailwind" style="width:50%"></div>
-    </div>
-  </div>
-
-  <div class="skill">
-    <div class="skill-label">
-      <span>Next.js</span><span>70%</span>
-    </div>
-    <div class="skill-bar">
-      <div class="skill-fill nextjs" style="width:70%"></div>
-    </div>
-  </div>
-
-</div>
-
+**Next.js**  
+![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)  
+`███████░░░` 70%
 <!-- Backend Skills (aapka existing) -->
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge)
@@ -176,6 +87,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A9856&layout=compact&theme=tokyonight" />
 </p>
-</body>
-</html>
+
 
