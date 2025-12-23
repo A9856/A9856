@@ -5,13 +5,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A9856&label=Profile%20views&color=0e75b6&style=flat" alt="A9856" />
 </p>
-## 👨‍💻 About Me
+<h4>About Me</h4>
 
-🌱 I'm a passionate **Software Engineer** who loves building real-world, scalable web applications.  
+🌱<p>I'm a passionate **Software Engineer** who loves building real-world, scalable web applications.  
 💻 Skilled in **MERN Stack**, **React**, **Next.js**, and **.NET (C#)**.  
-🚀 Experienced in REST APIs, MongoDB, MySQL, and modern UI frameworks.  
-📚 Always learning new technologies and improving backend & frontend skills.  
-🤝 Open to collaboration on real-world and open-source projects.
+Experienced in REST APIs, MongoDB, MySQL, and modern UI frameworks.  
+📚Always learning new technologies and improving backend & frontend skills.  
+🤝 Open to collaboration on real-world and open-source projects.</p>
 
 📫 **Email:** adilkhanofficial74@gmail.com  
 🔗 **GitHub:** https://github.com/A9856  
@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,cs,dotnet,c,postman,vercel,vscode,visualstudio,sublime&perline=8" />
 </p>
 <!-- Frontend Skills -->
-### 🚀 Frontend Skills
+<h5>Front-End Skills</h5>
 
 **HTML5**  
 ![HTML](https://readmebadge.vercel.app/badges/html.svg)  
@@ -58,6 +58,7 @@
 ![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)  
 `███████░░░` 70%
 <!-- Backend Skills (aapka existing) -->
+<h5>Back-End Skills</h5>
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-70%25-11998e?style=for-the-badge)
@@ -67,6 +68,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-30%25-1a2980?style=for-the-badge)
 
 <!-- Tools -->
+<h5>Tools</h5>
 ![VS Code](https://img.shields.io/badge/VS%20Code-90%25-007acc?style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-80%25-68217a?style=for-the-badge)
 ![Sublime](https://img.shields.io/badge/Sublime-70%25-ff3a00?style=for-the-badge)
