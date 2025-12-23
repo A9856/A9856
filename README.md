@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=A9856&label=Profile%20views&color=0e75b6&style=flat" alt="A9856" />
 </p>
 <h4>About Me</h4>
-<p align="justif">I'm a passionate **Software Engineer** who loves building real-world, scalable web applications.  
+<p align="justif">I'm a passionate **<b>Software Engineer</b>** who loves building real-world, scalable web applications.  
 Skilled in **MERN Stack**, **React**, **Next.js**, and **.NET (C#)**.  
 Experienced in REST APIs, MongoDB, MySQL, and modern UI frameworks.  
 Always learning new technologies and improving backend & frontend skills.  
