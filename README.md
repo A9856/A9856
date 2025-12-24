@@ -8,18 +8,18 @@
 <hr>
 <h4>About Me</h4>
 <p align="justify">I'm a passionate Software Engineer focused on building real-world, scalable, and high-performance web applications. I enjoy converting complex requirements into clean, efficient, and user-friendly solutions.
-I specialize in MERN Stack, React, Next.js, and .NET (C#), with hands-on experience in REST APIs, MongoDB, MySQL, and modern responsive UI frameworks.<br>
-🐞 Strong interest in bug fixing and debugging, with a problem-solving mindset to improve application performance and stability.<br>
-🐞 Passionate about bug fixing, debugging & performance optimization.<br>
-👨‍🏫 6 months C# teaching experience | E-commerce & team leadership projects guiding learners through core concepts and practical implementation.<br>
+I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on experience in REST APIs, MongoDB, MySQL</b>, and modern responsive UI frameworks.<br>
+🐞<b>Strong interest in bug fixing and debugging, with a problem-solving mindset to improve application performance and stability.</b><br>
+🐞<b>Passionate about bug fixing, debugging & performance optimization.</b><br>
+👨‍🏫<b>6 months C# teaching experience | E-commerce & team leadership projects guiding learners through core concepts and practical implementation.</b><br>
 🏢 <b>Software Engineer @ Shiwansh Solutions Pvt. Ltd.</b> | Open to collaboration
 </p>
 
-📫 **Email:** adilkhanofficial74@gmail.com  
+📫 **Email:**<b> adilkhanofficial74@gmail.com</b>
 
-🔗 **GitHub:** https://github.com/A9856
+🔗 **GitHub:**<b> https://github.com/A9856</b>
 
-🔗 **Linkedin:** https://www.linkedin.com/in/adil-khan-01b96627b
+🔗 **Linkedin:**<b> https://www.linkedin.com/in/adil-khan-01b96627b</b>
 
 ## 🚀 Languages & Tools
 ---
