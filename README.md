@@ -134,9 +134,22 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
   <img src="https://raw.githubusercontent.com/A9856/shopverse/main/assets/shopverse-mobile.jpg" width="300" />
 </p>
 
-🔗 **Live Demo:** https://hrdashfront.vercel.app  
-💻 **GitHub:** https://github.com/A9856/hrdashfront
+## 🧩 FlowForge – UI Preview
 
+### 💻 Desktop View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/board.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/add-task.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/delete.png" width="100%" />
+</p>
+### 📱 Mobile View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/board-m.jpg" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/A9856">
