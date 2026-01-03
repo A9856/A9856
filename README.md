@@ -138,9 +138,7 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 ## 🧩 FlowForge – UI Preview
 
 ### 💻 Desktop View
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/board.png" width="100%" />
-</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/add-task.png" width="100%" />
 </p>
@@ -148,7 +146,10 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
   <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/delete.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/board-m.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/mobile-board.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/mobile-dashboard.jpg" width="100%" />
 </p>
 
 <p align="center">
