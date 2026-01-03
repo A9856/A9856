@@ -143,14 +143,14 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
   <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md1.jpg" width="100%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md2.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md4.jpg" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md3.jpg" width="100%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md4.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md2.jpg" width="100%" />
 </p>
 
 ### 💻 Desktop View
