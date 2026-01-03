@@ -24,7 +24,7 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 ## 🚀 Languages & Tools
 ---
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,regex,nextjs,nodejs,python,express,mongodb,mysql,cs,dotnet,c,postman,npm,yarn,vite,vercel,git,github,vscode,visualstudio,sublime&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,zustand,shadcn,react,redux,regex,nextjs,nodejs,python,express,mongodb,mysql,cs,dotnet,c,postman,npm,yarn,vite,vercel,git,github,vscode,visualstudio,sublime&perline=8" />
 </p>
 <hr>
 <!-- Frontend Skills -->
@@ -146,7 +146,6 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 <p align="center">
   <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/delete.png" width="100%" />
 </p>
-### 📱 Mobile View
 <p align="center">
   <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/board-m.jpg" width="100%" />
 </p>
