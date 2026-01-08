@@ -129,13 +129,13 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
   <img src="https://raw.githubusercontent.com/A9856/shopverse/main/assets/shopverse-ui.jpg" width="100%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assets/d-h.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assests/d-h.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assets/d-c.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assests/d-c.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assets/d-ch.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assests/d-ch.png" width="100%" />
 </p>
 
 ### 📱 Mobile View
@@ -144,13 +144,13 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
   <img src="https://raw.githubusercontent.com/A9856/shopverse/main/assets/shopverse-mobile.jpg" width="300" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assets/p-h.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assests/p-h.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assets/p-c.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assests/p-c.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assets/p-ch.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assests/p-ch.png" width="100%" />
 </p>
 
 ## 🧩 FlowForge – UI Preview
