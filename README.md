@@ -178,6 +178,41 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 <p align="center">
   <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/mobile-dashboard.jpg" width="100%" />
 </p>
+## 🛒 Our Shoes Shop Website Craete Me – UI Preview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/D-P1.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/D-P2.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/D-P3.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/D-P2.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/D-P1.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/P-P1.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/P-P2.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/P-P4.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/P-P3.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/P-P5.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/P-P6.jpg" width="100%" />
+</p>
+
 
 
 <p align="center">
