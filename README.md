@@ -212,9 +212,35 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 <p align="center">
   <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/P-P6.jpg" width="100%" />
 </p>
+## 🧩 College Website – UI Preview
 
+### 📲Phone View
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/apcs/main/assests/homem.jpeg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/apcs/main/assests/aboutm.jpeg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/apcs/main/assests/coursem.jpeg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/apcs/main/assests/gallerym.jpeg" width="100%" />
+</p>
+### 📲Desktop View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/apcs/main/assests/aboutd.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/apcs/main/assests/homed.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/apcs/main/assests/contactd.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/apcs/main/assests/galleryd.png" width="100%" />
+</p>
 <p align="center">
   <a href="https://github.com/A9856">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
