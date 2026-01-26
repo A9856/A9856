@@ -24,7 +24,7 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 ## 🚀 Languages & Tools
 ---
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,regex,nextjs,nodejs,python,express,mongodb,mysql,cs,dotnet,c,postman,npm,yarn,vite,vercel,git,github,vscode,visualstudio,sublime,radix&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,regex,nextjs,nodejs,cpp,python,express,mongodb,mysql,cs,dotnet,c,postman,postgres,npm,yarn,vite,vercel,git,github,vscode,visualstudio,sublime,radix&perline=8" />
 </p>
 
 <hr>
@@ -97,6 +97,7 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 | 🏫 **Genius School Management System** | A full-stack MERN application with secure JWT authentication (Login & Sign-Up). Uses MongoDB Atlas for database, role-based access, and a modern UI for efficient school management. | [Live Demo](https://genious-ivxi.onrender.com) | [GitHub](https://github.com/A9856/genious) |
 | 🧑‍💼 **HR Dashboard System** | A complete MERN stack HR dashboard with JWT-based authentication, secure login/sign-up, employee & department management, and an admin-friendly real-world HR UI. | [Live Demo](https://hrdashfront.vercel.app) | [Frontend](https://github.com/A9856/hrdashfront)<br/>[Backend](https://github.com/A9856/hrdashback) |
 | 🧩 **FlowForge – Workflow Board** | A modern Kanban-style workflow task management app built with React, TypeScript, Zustand & shadcn/ui. Features drag & drop, dark mode, accessible UI, Framer Motion animations, and persistent local storage. | [Live Demo](https://flow-forge-pink.vercel.app) | [Code](https://github.com/A9856/FlowForge) |
+| 🧩 **College Website – Workflow Board** | Developed a modern and responsive College Website UI using Next.js, designed to represent a real-world educational institute platform. The application includes professional routes such as Home, About, Courses, Faculty, Gallery, Notices, and Contact pages. The project is built with a scalable component-based architecture and is fully responsive across all devices. It is structured for future backend and database integration to support dynamic content, admin management, and full-stack college management features. | [Live Demo](https://apcs-9krb.vercel.app) | [Code](https://github.com/A9856/apcs) |
 
 ## 🧑‍💼 HR Dashboard – UI Preview
 
