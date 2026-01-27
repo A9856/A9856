@@ -215,22 +215,7 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
   <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/mobile-dashboard.jpg" width="100%" />
 </p>
 
-## 🧩 College Website – UI Preview
 
-### 📲Desktop View
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/genious/main/assets/gd.jpeg" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/genious/main/assets/gtd.jpeg" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/genious/main/assets/gfd.jpeg" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/genious/main/assets/ged.jpeg" width="100%" />
-</p>
 
 ## 🧩 College Website – UI Preview
 
