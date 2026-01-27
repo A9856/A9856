@@ -154,31 +154,6 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
   <img src="https://raw.githubusercontent.com/A9856/TechMart/main/assests/p-ch.png" width="100%" />
 </p>
 
-## 🧩 FlowForge – UI Preview
-
-### 📲Phone View
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md1.jpg" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md4.jpg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md3.jpg" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md2.jpg" width="100%" />
-</p>
-
-### 💻 Desktop View
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/mobile-board.jpg" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/mobile-dashboard.jpg" width="100%" />
-</p>
 ## 🛒 Our Shoes Shop Website Craete Me – UI Preview
 <p align="center">
   <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/D-P1.jpg" width="100%" />
@@ -213,6 +188,50 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 <p align="center">
   <img src="https://raw.githubusercontent.com/A9856/Shoes/main/assets/P-P6.jpg" width="100%" />
 </p>
+
+## 🧩 FlowForge – UI Preview
+
+### 📲Phone View
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md1.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md4.jpg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md3.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/md2.jpg" width="100%" />
+</p>
+
+### 💻 Desktop View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/mobile-board.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/FlowForge/main/assets/mobile-dashboard.jpg" width="100%" />
+</p>
+
+## 🧩 College Website – UI Preview
+
+### 📲Desktop View
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/genious/main/assets/gd.jpeg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/genious/main/assets/gtd.jpeg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/genious/main/assets/gfd.jpeg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/genious/main/assets/ged.jpeg" width="100%" />
+</p>
+
 ## 🧩 College Website – UI Preview
 
 ### 📲Phone View
