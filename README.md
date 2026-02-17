@@ -246,19 +246,6 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 <p align="center">
   <img src="https://raw.githubusercontent.com/A9856/apcs/main/assests/galleryd.png" width="100%" />
 </p>
-<p align="center">
-  <a href="https://github.com/A9856">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/adil-khan-01b96627b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://instagram.com/__adi_____0007">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
-  </a>
-</p>
-
-
 
 ## 📝 Text Converter– UI Preview
 
@@ -282,6 +269,18 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A9856&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/A9856">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/adil-khan-01b96627b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://instagram.com/__adi_____0007">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+  </a>
 </p>
 
 
