@@ -258,6 +258,22 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
   </a>
 </p>
 
+
+
+## 📝 Text Converter– UI Preview
+
+### 📲Phone View
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/textconvert/main/assets/MOBILE1.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/textconvert/main/assets/Desktop1.jpg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A9856/textconvert/main/assets/Desktop2.jpg" width="100%" />
+</p>
+
 ## 📈 GitHub Stats
 <hr>
 <p align="center">
