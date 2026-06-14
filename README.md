@@ -24,7 +24,8 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 ## 🚀 Languages & Tools
 ---
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,regex,nextjs,nodejs,socketio,python,express,mongodb,mysql,cs,dotnet,c,postman,postgres,npm,yarn,vite,vercel,git,github,vscode,visualstudio,sublime,radix&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,regex,nextjs,nodejs,python,express,mongodb,mysql,cs,dotnet,c,postman,postgres,npm,yarn,vite,vercel,git,github,vscode,visualstudio,sublime,radix&perline=8" />
+  <img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
 <hr>
