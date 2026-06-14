@@ -25,7 +25,7 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 ---
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,regex,nextjs,nodejs,python,express,mongodb,mysql,cs,dotnet,c,postman,postgres,npm,yarn,vite,vercel,git,github,vscode,visualstudio,sublime,radix&perline=8" />
-  <img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio&logoColor=white" />
+
 </p>
 
 <hr>
@@ -69,6 +69,7 @@ I specialize in MERN Stack, <b>React, Next.js, and .NET (C#), with hands-on expe
 <h5>Back-End Skills</h5>
 
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-3c873a?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio&logoColor=white" />
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-gray?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-70%25-11998e?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-60%25-00758f?style=for-the-badge)
