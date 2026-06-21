@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adil Khan</h1>
-<h3 align="center"> Junior Software Engineer | Mern Full Stack Developer</h3>
+<h3 align="center"> Junior Software Engineer | Computer Diploma Trainer | Mern Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A9856&label=Profile%20views&color=0e75b6&style=flat" alt="A9856" />
